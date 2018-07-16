@@ -3,3 +3,17 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+@media screen and (max-width: 600px) {
+	 /*  {
+		 height: 100%;  
+		overflow: scroll;
+		-webkit-overflow-scrolling: touch;
+	} */
+
+	.contact-body, .landing-grid{
+		/* height: 100%;  */
+	 overflow: scroll;
+	 -webkit-overflow-scrolling: touch;
+ }
+}
