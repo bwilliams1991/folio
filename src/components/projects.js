@@ -45,7 +45,7 @@ class Projects extends Component {
 
 					{/* Project 3 */}
 					<Card shadow={5} style={{ minWidth: '450', margin: 'auto' }} className='responsiveCard'>
-						<CardTitle style={{ color: '#fff', height: '176px', background: 'url(../assets/images/SIM.PNG) center / cover' }} >React Project #3</CardTitle>
+						<CardTitle style={{ color: '#fff', height: '176px', background: 'url(../assets/images/SIM.PNG) center / cover' }} >SIM</CardTitle>
 						<CardText>
 							This is Simple Inventory Manager or SIM for short. It's designed to help companies run more efficiently between processes and departments. This application is built to handle receiving, completing jobs, and final shippment of product.
             </CardText>
